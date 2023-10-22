@@ -1,0 +1,4 @@
+interface Android {
+    void chargeWithMicroUSB();
+}
+
